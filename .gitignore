@@ -1,0 +1,17 @@
+# add node modules
+node_modules
+db.sqlite3
+
+#add venv folder
+venv
+usermanagement/__pycache__
+usermanagement/migrations
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+backend/token.json
+backend/usermanagement/credentials.json
+backend/usermanagement/token.json
